@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 def happy_new_year():
     countdown = 10
     while countdown in range(10, 0, -1):
